@@ -9,4 +9,4 @@
                         🚂 BOILER UP! 🚂
 ```
 
-## I am Michael and I am a student at Purdue University. This page is a collection of some of the school, club, and personal projects I have contributed to.
+## I am Michael and I am a student at Purdue University. This page is a collection of the public projects I have contributed to. (My private repos are cooler)
