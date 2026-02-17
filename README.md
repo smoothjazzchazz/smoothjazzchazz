@@ -11,7 +11,7 @@
 
 
 
-Hi I am Michael 
+### I am Michael and I am a student at Purdue University. This page is a collection of the public projects I have contributed to. (My private repos are cooler)
 
 ### 2025 HackPrinceton  
 *Princeton's Flagship Hackathon — 600+ participants, 190+ projects*
