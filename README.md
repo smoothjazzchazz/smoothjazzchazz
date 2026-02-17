@@ -9,7 +9,9 @@
                         🚂 BOILER UP! 🚂
 ```
 
-## 🏆 Hackathons
+
+
+Hi I am Michael 
 
 ### 2025 HackPrinceton  
 *Princeton's Flagship Hackathon — 600+ participants, 190+ projects*
