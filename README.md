@@ -35,4 +35,4 @@ Built a blockchain-powered seafood traceability system combining Solana smart co
 - [Ishaan Buddharaju](https://www.linkedin.com/in/ibuddhar/)
 
 **🔗 [Watch the Demo!](https://www.loom.com/share/0c109212cbf0456380b5dd8f3449b5a1)**
-**📖 [Read the Devpost writeup!](https://devpost.com/software/nautilink)
+**📖 [Read the Devpost writeup!](https://devpost.com/software/nautilink)**
