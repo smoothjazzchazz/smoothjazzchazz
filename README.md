@@ -11,7 +11,7 @@
 
 
 
-### Hi I'm Michael and I am an honors ECE student at Purdue University. Here are some of the public projects I have contributed to. (My private repos are cooler) 
+### Hi I'm Michael and I am an honors ECE student at Purdue University (My private repos are cooler) 
 **Check out my Vamo profile for a deeper look at my developer profile! -> https://app.vamotalent.ai/u/smoothjazzchazz**
 
 ### 🌊 Nautilink — HackPrinceton Fall 2025
@@ -34,6 +34,4 @@ Built a blockchain-powered seafood traceability system combining Solana smart co
 - [Ethan Wang](https://www.linkedin.com/in/ethangwang/)
 - [Ishaan Buddharaju](https://www.linkedin.com/in/ibuddhar/)
 
-**📹 [Watch the Demo!](https://www.loom.com/share/0c109212cbf0456380b5dd8f3449b5a1)**
-**📖 [Read the Devpost writeup!](https://devpost.com/software/nautilink)** 
-**💻 [Check out the Project Repository! ](https://github.com/Ishaan-Buddharaju/Nautilink-HackPrinceton)**
+**📹 [Watch the Demo!](https://www.loom.com/share/0c109212cbf0456380b5dd8f3449b5a1)** **📖 [Read the Devpost writeup!](https://devpost.com/software/nautilink)**  **💻 [Check out the Project Repository! ](https://github.com/Ishaan-Buddharaju/Nautilink-HackPrinceton)**
